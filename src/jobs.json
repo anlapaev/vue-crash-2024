@@ -15,20 +15,6 @@
       "id": "1"
     },
     {
-      "id": "2",
-      "title": "Front-End Engineer (Vue)",
-      "type": "Full-Time",
-      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
-      "location": "Miami, FL",
-      "salary": "$70K - $80K",
-      "company": {
-        "name": "Veneer Solutions",
-        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
-        "contactEmail": "contact@loremipsum.com",
-        "contactPhone": "555-555-5555"
-      }
-    },
-    {
       "id": "3",
       "title": "Vue.js Developer",
       "type": "Full-Time",
@@ -71,20 +57,6 @@
       }
     },
     {
-      "id": "6",
-      "title": "Vue Native Developer",
-      "type": "Full-Time",
-      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
-      "location": "Portland, OR",
-      "salary": "$100K - $110K",
-      "company": {
-        "name": "Port Solutions INC",
-        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
-        "contactEmail": "contact@ipsumlorem.com",
-        "contactPhone": "555-555-5555"
-      }
-    },
-    {
       "id": "81e6",
       "type": "Full-Time",
       "title": "Андрей Сергеевич Лапаев",
@@ -98,34 +70,6 @@
         "contactPhone": "",
         "email": "boss.lapaev01@mail.ru",
         "phone": "+79524590255"
-      }
-    },
-    {
-      "id": "7ab7",
-      "title": "Андрей Сергеевич Лапаев",
-      "type": "Full-Time",
-      "description": "sfdfsd",
-      "salary": "$50K - $60K",
-      "location": "dsfsdfsd",
-      "company": {
-        "name": "dsfsdfsd",
-        "description": "sdfdsfs",
-        "contactEmail": "boss.lapaev01@mail.ru",
-        "contactPhone": "+79524590255"
-      }
-    },
-    {
-      "id": "b14f",
-      "title": "Андрей Сергеевич Лапаев",
-      "type": "Full-Time",
-      "description": "fdgdfgdfg",
-      "salary": "$60K - $70K",
-      "location": "dsfsdfsd",
-      "company": {
-        "name": "dsfsdfsd",
-        "description": "dfgfdg",
-        "contactEmail": "boss.lapaev01@mail.ru",
-        "contactPhone": "+79524590255"
       }
     }
   ]
