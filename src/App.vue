@@ -4,6 +4,6 @@ import Hero from '@/components/Hero.vue'
 </script>
 
 <template>
-  <Navbar></Navbar>
-  <Hero></Hero>
+    <Navbar></Navbar>
+    <Hero></Hero>
 </template>
