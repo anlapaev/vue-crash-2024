@@ -113,6 +113,20 @@
         "contactEmail": "boss.lapaev01@mail.ru",
         "contactPhone": "+79524590255"
       }
+    },
+    {
+      "id": "b14f",
+      "title": "Андрей Сергеевич Лапаев",
+      "type": "Full-Time",
+      "description": "fdgdfgdfg",
+      "salary": "$60K - $70K",
+      "location": "dsfsdfsd",
+      "company": {
+        "name": "dsfsdfsd",
+        "description": "dfgfdg",
+        "contactEmail": "boss.lapaev01@mail.ru",
+        "contactPhone": "+79524590255"
+      }
     }
   ]
 }
