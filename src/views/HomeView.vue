@@ -1,8 +1,14 @@
 <template>
-  <Hero></Hero>
-  <HomeCards></HomeCards>
-  <JobListings :limit="3" :show-button="true"></JobListings>
+  <div>
+    <Hero />
+    <HomeCards />
+    <JobListings
+      :limit="3"
+      :show-button="true"
+    />
+  </div>
 </template>
+
 
 <script setup>
 import Hero from '@/components/Hero.vue'

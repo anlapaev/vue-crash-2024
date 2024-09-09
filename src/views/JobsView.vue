@@ -1,5 +1,5 @@
 <template>
-<JobListings />
+  <JobListings />
 </template>
 
 <script setup>

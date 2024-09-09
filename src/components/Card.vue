@@ -1,6 +1,6 @@
 <template>
   <div :class="`${props.bg} p-6 rounded-lg shadow-md`">
-    <slot></slot>
+    <slot />
   </div>
 </template>
 
