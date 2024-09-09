@@ -83,6 +83,22 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "81e6",
+      "type": "Full-Time",
+      "title": "Андрей Сергеевич Лапаев",
+      "description": "adssadsadas",
+      "salary": "$50K - $60K",
+      "location": "dsfsdfsd",
+      "company": {
+        "name": "dsfsdfsd",
+        "description": "sadasdasdas",
+        "contactEmail": "",
+        "contactPhone": "",
+        "email": "boss.lapaev01@mail.ru",
+        "phone": "+79524590255"
+      }
     }
   ]
 }
